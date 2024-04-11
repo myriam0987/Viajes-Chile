@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+
+h3{
+    text-align: center;
+}
+
+
+.navbar{/* me sirvio para alinaar el texto a la derecha  */
+    left: 0px;
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+.card{
+    background-color: turquoise;
+    margin: auto;
+    border: 1px;
+    color: azure;
+}
+
+.destacados{
+    text-align: center;
+}
+
+ul{
+    text-align: right;
+}
+
+footer{
+    background-color: turquoise;
+}
+
+.icono{
+    background-color: turquoise;
+    text-align: center;
+}
+
